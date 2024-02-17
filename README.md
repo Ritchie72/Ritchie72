@@ -2,7 +2,8 @@
 
 ###
 
-![bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8 u9](https://github.com/xrigiitm/.github/assets/139524049/92df94a0-efc1-4d69-b828-4fc0752427cd)
+<img align="right" height="150" src=""  />
+
 ###
 
 <div align="left">
