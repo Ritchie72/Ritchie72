@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harshal and I'm a third year mechanical engineering student at IIT Madras,</h2>
+<h3 align="left">Hi 👋! My name is Harshal and I'm a third year mechanical engineering student at IIT Madras,</h3>
 
 ###
 
