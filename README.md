@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="file:///C:/Users/wwwha/Downloads/IMG_20240403_152420%20(1).jpg"  />
 </div>
 
 ###
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Data science engineer. <br>- 📚 I'm currently learning XR Development<br>- ⚡ In my free time I code.</p>
+<p align="left">I'm Harshal, I am final year undergrad student at IIT Madras. <br><br>- 🔭 I’m working as Data science engineer. <br>- 📚 I'm currently learning XR Development<br>- ⚡ In my free time I code.</p>
 
 ###
 
